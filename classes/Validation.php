@@ -23,9 +23,7 @@ class Validation{
 
     }
 
-    public function is_name_empty($name){
-        
-    }
+    
 
     public function is_age_valid($age){
 
